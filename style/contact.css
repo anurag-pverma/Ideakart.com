@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://media.istockphoto.com/photos/strawberry-farm-in-thailand-at-the-morning-picture-id1290522506?k=20&m=1290522506&s=612x612&w=0&h=qmQpM3l21MvFvSM7exPoDHCfgqFXvwVMXnXdkjHXiSQ=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+input{
+    width: 500px;
+    height: 30px;
+    border: none;
+}
+#name{
+    display: flex;
+    height: auto;
+    width: auto;
+    margin-left: 100px;
+}
+#text-area{
+    width: 1035px;
+    height: 80px;
+}
+#emai-no{
+    display: flex;
+    margin-left: 100px;
+}
+#first-name{
+    margin-right: 20px;
+}
+
+#email{
+    margin-right: 20px;
+}
+#button{
+    background-color: #449d44;
+    height: 30px;
+    width: 120px;
+    border: 0ch;
+    margin-left: 600px;
+    border: 1px solid green ;
+    border-radius: 3px;
+}
+#text-block{
+    margin-left: 100px;   
+}
+

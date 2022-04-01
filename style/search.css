@@ -1,0 +1,28 @@
+#box{
+    border: 1px solid  gray;
+    border-radius: 5px;
+    height: 415px;
+    width: 268px;
+    align-items: center;
+    justify-items: center;
+    text-align: start;
+    margin: auto;
+    margin-top: 50px;
+    padding: 15px 15px 15px 15px;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+img{
+    height: 350px;
+    width: 238px;
+    margin-left: 15px;
+}
+
+#main{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* margin-top: 50px; */
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+
+}
